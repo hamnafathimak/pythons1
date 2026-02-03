@@ -1,3 +1,3 @@
 # Pythons1
-**the subject is python**
+**The subject is Python**
 
